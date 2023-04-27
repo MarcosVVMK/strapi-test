@@ -8,3 +8,4 @@ It is a development test to deepen learning about the tool and the Typescript la
 - To enable debug mode run the command `node --inspect=0.0.0.0:9229 ./node_modules/.bin/strapi dev` in the terminal.
 
 - If you are using typescript add the following configuration in compilerOptions of tsconfig.json: `"sourceMap": true`.
+
